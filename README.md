@@ -6,7 +6,7 @@ Projeto de **portfólio de QA** com testes automatizados end-to-end usando
 um alvo público, estável e ideal para demonstrar boas práticas de automação
 sem depender de credenciais ou de um ambiente privado.
 
-> A suíte é executada em três motores de navegador — **Chromium, Firefox e
+> A suíte é executada em três motores de navegador — **Chrome, Firefox e
 > WebKit** — a partir do mesmo conjunto de specs.
 
 ## Propósito
