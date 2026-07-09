@@ -1,0 +1,27 @@
+{
+  "name": "playwright-docs-e2e",
+  "version": "1.0.0",
+  "description": "Suite de testes E2E de portfolio com Playwright, cobrindo o site oficial playwright.dev.",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:chromium": "playwright test --project=chromium",
+    "report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "e2e",
+    "qa",
+    "testing",
+    "automation",
+    "portfolio"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "dotenv": "^16.4.7"
+  }
+}
