@@ -1,0 +1,17 @@
+node_modules/
+.env
+test-results/
+playwright-report/
+blob-report/
+downloads/
+/playwright/.cache/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Registro de decisões local (não versionar)
+DECISIONS.local.md
